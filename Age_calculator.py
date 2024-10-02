@@ -8,6 +8,3 @@ if Your_age_now > 100:
 
 if Your_age_now < 18:
     print('Go to school my boy')
-
-if Your_age_now > 18 < 100:
-    print('Go to work bro')
